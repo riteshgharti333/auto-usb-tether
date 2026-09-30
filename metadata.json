@@ -1,0 +1,6 @@
+{
+  "name": "USB Auto Tether",
+  "description": "Lightweight utility that automatically toggles USB tethering when a USB cable is connected on non-rooted Android devices.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

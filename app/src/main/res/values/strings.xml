@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">USB Auto Tether</string>
+    <string name="accessibility_service_name">USB Auto Tethering Service</string>
+    <string name="accessibility_service_description">Automatically detects when Tethering settings screen is opened and toggles the USB tethering switch on non-rooted Android devices.</string>
+    
+    <string name="status_service_active">SERVICE ACTIVE</string>
+    <string name="status_service_inactive">PERMISSION REQUIRED</string>
+    <string name="status_usb_connected">USB Cable: Connected</string>
+    <string name="status_usb_disconnected">USB Cable: Disconnected</string>
+    
+    <string name="desc_service_active">Service is active. USB tethering activates automatically on cable connect.</string>
+    <string name="desc_service_inactive">Accessibility permission is needed to automatically turn on USB tethering.</string>
+    
+    <string name="btn_grant_permission">Enable Accessibility Service</string>
+    <string name="btn_permission_granted">Service Is Active</string>
+    <string name="btn_test_tether">Test Tethering Screen</string>
+    
+    <string name="section_preferences">Preferences</string>
+    <string name="pref_auto_tether_title">Auto-Toggle Tethering</string>
+    <string name="pref_auto_tether_desc">Enable USB tethering automatically when connected</string>
+    <string name="pref_auto_return_title">Fast Background Auto-Dismiss</string>
+    <string name="pref_auto_return_desc">Closes settings screen instantly after enabling</string>
+    <string name="pref_toast_title">Show Confirmation Toast</string>
+    <string name="pref_toast_desc">Display pop-up alert when tethering is activated</string>
+    
+    <string name="msg_tether_enabled">USB Tethering automatically enabled!</string>
+</resources>
